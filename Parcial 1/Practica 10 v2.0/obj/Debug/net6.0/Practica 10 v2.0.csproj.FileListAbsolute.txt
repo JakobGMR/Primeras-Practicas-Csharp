@@ -1,0 +1,15 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\bin\Debug\net6.0\Practica 10 v2.0.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\bin\Debug\net6.0\Practica 10 v2.0.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\bin\Debug\net6.0\Practica 10 v2.0.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\bin\Debug\net6.0\Practica 10 v2.0.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\bin\Debug\net6.0\Practica 10 v2.0.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\refint\Practica 10 v2.0.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\Practica 10 v2.0.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 10 v2.0\obj\Debug\net6.0\ref\Practica 10 v2.0.dll

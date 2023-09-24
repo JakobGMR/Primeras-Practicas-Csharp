@@ -1,0 +1,15 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\bin\Debug\net6.0\GasolineraG1000-JacoboGonzalez.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\bin\Debug\net6.0\GasolineraG1000-JacoboGonzalez.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\bin\Debug\net6.0\GasolineraG1000-JacoboGonzalez.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\bin\Debug\net6.0\GasolineraG1000-JacoboGonzalez.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\bin\Debug\net6.0\GasolineraG1000-JacoboGonzalez.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\refint\GasolineraG1000-JacoboGonzalez.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\GasolineraG1000-JacoboGonzalez.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\GasolineraG1000-JacoboGonzalez\obj\Debug\net6.0\ref\GasolineraG1000-JacoboGonzalez.dll

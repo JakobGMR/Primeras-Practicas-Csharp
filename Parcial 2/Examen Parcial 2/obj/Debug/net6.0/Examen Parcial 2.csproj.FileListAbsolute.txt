@@ -1,0 +1,29 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\refint\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Examen Parcial 2\obj\Debug\net6.0\ref\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\bin\Debug\net6.0\Examen Parcial 2.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\refint\Examen Parcial 2.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\Examen Parcial 2.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practicas\Parcial 2\Examen Parcial 2\obj\Debug\net6.0\ref\Examen Parcial 2.dll

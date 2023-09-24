@@ -1,0 +1,30 @@
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.exe
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.deps.json
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.runtimeconfig.json
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.dll
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.pdb
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.dll
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\refint\CajaAhorro.dll
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.pdb
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.genruntimeconfig.cache
+C:\Users\usuario\source\repos\CajaAhorro\CajaAhorro\obj\Debug\net6.0\ref\CajaAhorro.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\bin\Debug\net6.0\CajaAhorro.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\refint\CajaAhorro.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\CajaAhorro.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 9\CajaAhorro\CajaAhorro\obj\Debug\net6.0\ref\CajaAhorro.dll

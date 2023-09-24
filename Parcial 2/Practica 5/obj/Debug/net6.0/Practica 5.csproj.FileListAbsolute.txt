@@ -1,0 +1,29 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\bin\Debug\net6.0\Practica 5.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\bin\Debug\net6.0\Practica 5.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\bin\Debug\net6.0\Practica 5.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\bin\Debug\net6.0\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\bin\Debug\net6.0\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\refint\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\Practica 5.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 5\obj\Debug\net6.0\ref\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\bin\Debug\net6.0\Practica 5.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\bin\Debug\net6.0\Practica 5.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\bin\Debug\net6.0\Practica 5.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\bin\Debug\net6.0\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\bin\Debug\net6.0\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\refint\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\Practica 5.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Parcial 2\Practica 5\obj\Debug\net6.0\ref\Practica 5.dll
