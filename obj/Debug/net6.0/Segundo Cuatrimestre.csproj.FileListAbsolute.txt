@@ -1,0 +1,30 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\bin\Debug\net6.0\Segundo Cuatrimestre.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\bin\Debug\net6.0\Segundo Cuatrimestre.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\bin\Debug\net6.0\Segundo Cuatrimestre.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\bin\Debug\net6.0\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\bin\Debug\net6.0\Segundo Cuatrimestre.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\refint\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\Segundo Cuatrimestre.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\obj\Debug\net6.0\ref\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\bin\Debug\net6.0\Segundo Cuatrimestre.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\bin\Debug\net6.0\Segundo Cuatrimestre.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\bin\Debug\net6.0\Segundo Cuatrimestre.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\bin\Debug\net6.0\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\bin\Debug\net6.0\Segundo Cuatrimestre.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.csproj.AssemblyReference.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\refint\Segundo Cuatrimestre.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\Segundo Cuatrimestre.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Segundo Cuatrimestre\POO\Practica 1\obj\Debug\net6.0\ref\Segundo Cuatrimestre.dll
